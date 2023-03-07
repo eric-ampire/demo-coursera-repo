@@ -1,1 +1,1 @@
-# demo-coursera-repo
+# demo-coursera-repository
